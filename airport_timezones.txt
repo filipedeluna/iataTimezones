@@ -10552,7 +10552,7 @@ CRN Europe/Isle_of_Man
 CWE Africa/Cairo
 CXM Africa/Luanda
 DAI Asia/Thimphu
-DGH 
+DGH Asia/Kolkata
 DGX Europe/Guernsey
 DJR Australia/Lindeman
 DLD Europe/Oslo
