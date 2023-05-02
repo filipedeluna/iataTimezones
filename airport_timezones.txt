@@ -10892,3 +10892,4 @@ ZDM Asia/Jerusalem
 ZCU Asia/Shanghai
 ZGC Asia/Shanghai
 ZJK Asia/Hong_Kong
+KGV Europe/Berlin
