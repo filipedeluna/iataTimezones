@@ -3046,7 +3046,7 @@ VRC Asia/Manila
 YAR America/Montreal
 DOU America/Campo_Grande
 TAZ Asia/Ashgabat
-TAN America/New_York
+TAN Australia/Brisbane
 YYH America/Cambridge_Bay
 EJH Asia/Riyadh
 BLS Australia/Brisbane
@@ -4548,7 +4548,7 @@ SAW Europe/Istanbul
 CII Europe/Istanbul
 DIY Europe/Istanbul
 MQM Europe/Istanbul
-SIC America/Panama
+SIC Europe/Istanbul
 VAS Europe/Istanbul
 ONQ Europe/Istanbul
 MSR Europe/Istanbul
@@ -4694,7 +4694,7 @@ JCX America/Los_Angeles
 ASL America/Chicago
 MMH America/Los_Angeles
 JLB America/Los_Angeles
-LKS America/Chicago
+LKS Europe/Prague
 MML America/Chicago
 MLL America/Nome
 MRY America/Los_Angeles
@@ -5472,7 +5472,7 @@ HOE Asia/Vientiane
 CIS Pacific/Enderbury
 XQS Europe/Helsinki
 FRP America/Juneau
-ZCA Asia/Shanghai
+ZCA Europe/Berlin
 THJ Asia/Shanghai
 BWP Pacific/Port_Moresby
 BXC America/New_York
@@ -6147,7 +6147,7 @@ PPX Pacific/Port_Moresby
 NIS Pacific/Port_Moresby
 WSU Pacific/Port_Moresby
 PWR America/Sitka
-EWD America/Anchorage
+EWD Asia/Riyadh
 NLK Pacific/Norfolk
 UDO Asia/Vientiane
 MVQ Europe/Minsk
@@ -7306,7 +7306,7 @@ EOR America/Caracas
 EWO Africa/Brazzaville
 SIB Africa/Brazzaville
 SSL America/Bogota
-YJM Europe/Madrid
+YJM America/Vancouver
 VAB America/Bogota
 LAP America/Mazatlan
 AZT America/Bogota
