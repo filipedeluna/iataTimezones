@@ -3046,7 +3046,7 @@ VRC Asia/Manila
 YAR America/Montreal
 DOU America/Campo_Grande
 TAZ Asia/Ashgabat
-TAN Australia/Brisbane
+TAN America/New_York
 YYH America/Cambridge_Bay
 EJH Asia/Riyadh
 BLS Australia/Brisbane
@@ -8187,7 +8187,7 @@ FOP America/New_York
 GTR America/Chicago
 JGL America/New_York
 RBD America/Chicago
-CTJ Europe/Rome
+CTJ America/New_York
 LCK America/New_York
 QJJ America/New_York
 DAL America/Chicago
@@ -9471,7 +9471,7 @@ HBD Pacific/Port_Moresby
 GLQ America/Anchorage
 CCZ America/Nassau
 NDK Pacific/Majuro
-GIC Pacific/Port_Moresby
+GIC Australia/Brisbane
 WLB America/Sitka
 GCW America/Phoenix
 TSW Pacific/Port_Moresby
